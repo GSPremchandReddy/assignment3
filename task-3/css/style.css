@@ -1,0 +1,194 @@
+body{
+    background: linear-gradient(235deg,#ff005e,#010615,#fbff00);
+}
+
+.maindiv{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    
+    margin: auto;
+    box-shadow: 2px 2px 2px 2px #ddd;
+  /*  border: 3px solid #ddd;*/
+    border: 4px solid black;
+    background: linear-gradient(45deg, #49a09d, #5f2c82);
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.leftdiv {
+    width: 30%;
+    
+    padding: 1%;
+    margin: 1%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px #ddd;
+}
+.rightdiv {
+    width: 61%;
+
+    padding: 1%;
+    margin: 1%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px #ddd;
+}
+
+.onediv {
+    width: 95%;
+    padding: 1%;
+    margin: 1%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px #ddd;
+}
+
+.edutable{
+    width: 97.5%;
+    color: navy;
+    font-size: 20px;
+    font-style: italic;
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    text-align: center;
+    margin: 1%;
+    margin-bottom: 5%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px #ddd;
+    line-height: 60px;
+    font-weight: bold;
+
+}
+.row1{
+    border: 2px solid black;
+    color: crimson;
+
+}
+.row{
+    border: 2px solid black;
+
+}
+
+
+
+
+
+.threediv {
+    width: 92%;
+    padding: 1%;
+    padding-left: 4%;
+    text-align: initial;
+    margin: 1%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px #ddd;
+    
+}
+
+.fourdiv {
+    width: 92%;
+    padding: 1%;
+    padding-left: 4%;
+    text-align: initial;
+    margin: 1%;
+    margin-top: 3%;
+    border: 2px solid black;
+    box-shadow: 2px 2px 2px 2px #ddd;
+    
+}
+
+img{
+    width: 95%;
+    padding: 1%;
+    margin: 1%;
+    border-radius: 80%;
+    box-shadow: 4px 4px 4px 4px navy;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+    font-style: italic;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    color: navy;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h3{
+    
+    color: navy;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+h4{
+    
+    color: navy;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.tdiv {
+    width: 90%;
+    
+    margin: 4.3%;
+    box-shadow: 2px 2px 2px 2px #ddd;
+    border: 3px solid #ddd;
+
+}
+
+@media only screen and (min-width:961px) and (max-width:1200px) {
+    body{
+        background: linear-gradient(45deg, #49a09d, #5f2c82);
+    }
+    .maindiv{
+        background: linear-gradient(235deg,#ff005e,#010615,#fbff00);
+        
+    }
+    .leftdiv {
+        width: 100%;
+        
+    }
+    .rightdiv {
+        width: 100%;
+       
+    }
+}
+
+@media only screen and (min-width:320px) and (max-width:960px) {  
+    body{
+        background: linear-gradient(45deg, #49a09d, #5f2c82);
+    }
+    .maindiv{
+        background: linear-gradient(235deg,#ff005e,#010615,#fbff00);  
+    }
+    .leftdiv {
+        width: 100%;
+        
+    }
+    .rightdiv {
+        width: 100%;
+        
+       
+    }
+    .edutable{
+        
+        font-size: 12.5px;
+        line-height: 20px;
+    
+        padding: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-bottom: 2%;
+        padding-top: 2%;
+        
+    
+    }
+    
+    
+}

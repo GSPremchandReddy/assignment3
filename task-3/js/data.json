@@ -1,0 +1,56 @@
+{
+    "data":{
+    "image":"images/img3.jpeg",
+    "name":"G.S.Premchand Reddy",
+    "roll":"Reg.No: 19A81A0517",
+    "phone":"Phone.No: 9494633466",
+    "mail":"Mail.Id: gspcr9898@gmail.com"
+    },
+    
+
+    "career":{
+        "heading":"Career Objective",
+        "para":"To obtain a fresher position as a software engineer in a fast-paced organization where technical skills and creative thinking are useful. A highly motivated software engineer seeking to get a position in a reputed company, where I can use my skills and knowledge to learn new things and grow as a software developer"
+        
+    },
+    "trainers":[
+        {
+    "name":"Education Details"
+   
+        }  
+    ],
+    "education":[
+        {
+            "top":["Qualification","School","Grade","Passout"]
+        },
+        {
+            "ten":["10th","Vivekananda high school","9.2CGPA","2017"]
+        },
+        {
+            "inter":["Inter","Sri chaitanya junior college","9.5CGPA","2019"]
+        },
+        {
+            "btech":["Btech","Sri vasavi Engineering college","9.0CGPA","2023"]
+        }
+
+    ],
+    "computers":{
+        "head":"Computer Literacy",
+        "lang":"Languages : C, C++, JAVA",
+        "web":"Web Technologies : HTML, JAVASCRIPT",
+        "opp":"OPerating System : WINDOWS TEN, WINDOWS XP",
+        "data":"Database : SQL"
+    },
+    "comp":{
+        "headng":"Personal Competences",
+        "will":"1.Willingness to learn",
+        "open":"2.OPen-minded",
+        "team":"3.Team player",
+        "work":"4.Work under the pressure"
+    }
+    
+  
+   
+
+ 
+}
